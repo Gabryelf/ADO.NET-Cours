@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=180&section=header&text=ADO.NET%20Course&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=4%20урока%20·%20Python%20→%20VS%20→%20C%23%20→%20Консоль&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=180&section=header&text=ADO.NET%20Course&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=2%20урок%20&descAlignY=58&descSize=18" width="100%"/>
 
 [![.NET](https://img.shields.io/badge/.NET-6.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
